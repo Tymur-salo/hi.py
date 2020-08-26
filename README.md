@@ -1,12 +1,12 @@
 ### hi.py
 
-**Hello and welcome to Hi.Py!
-I make this library to make
-your life more simple! 
-Did you C-Boy? Define is for you!
-`
-@define(const="hi.py is cool!", skipn=False, name="CONST")
-def somecooldunction():
-  print(CONST)
+**Hello and welcome to Hi.Py!\n
+I make this library to make\n
+your life more simple!\n
+Did you C-Boy? Define is for you!\n
+`\n
+@define(const="hi.py is cool!", skipn=False, name="CONST")\n
+def somecooldunction():\n
+  print(CONST)\n
 `
 **

@@ -10,7 +10,7 @@ def define(const, f, skipn=False, name):
 		eval(f"{name} = const")
 		f()
 		if skipn:
-			print(f"variable with name{name} was added succesiful!")
+			print(f"variable with name {name} and value {value} was added succesiful!")
 	return inside_define
 
 def is_in32(value):
